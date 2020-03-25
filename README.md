@@ -1,4 +1,4 @@
-## Deploy to openshift using Docker strategy 
+## Deploy Simple NodeJS to openshift using Docker strategy 
 
 As the source code is equipped with ``Dockerfile`` definition, we can use docker deployment strategy to deploy the app.
 
